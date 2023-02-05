@@ -3,10 +3,6 @@ body {
 }
 
 .main-block {
-    position: absolute;
-    top: 50%; 
-    left: 50%;
-    transform: translate(-50%, -50%);
     width: 300px;
     height: 150px;
     background-color: rgb(104, 109, 111);
@@ -18,5 +14,5 @@ body {
 
 .main-block-message {
     font-size: 23px;
-    color:blue 
+    color:rgb(255, 98, 0) 
 }
